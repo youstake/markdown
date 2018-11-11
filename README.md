@@ -1,6 +1,9 @@
 Markdown_Beta
 ===============================
-Decide what content is displayed on https://youstake.to
+Decide what content is displayed on https://youstake.to   
+The first coin that use this feature is PIVX.  
+
+![](https://youstake.to/images/20181111.png "PIVX on YouStake.to")
 
 How it works
 ----------------
