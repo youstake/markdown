@@ -4,4 +4,4 @@ Smartcash Core is released under the terms of the MIT license. See COPYING for m
   
 Consensus Algorithms | Masternode | Additional 
 :------------: | :-------------: | :-------------:
- Proof of Work | yes (SmartNode) | Rewards (SmartRewards) for Staking/Holding
+ Proof of Work | yes (SmartNode) | Rewards (SmartRewards) for holding
