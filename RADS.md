@@ -1,0 +1,5 @@
+**RADS: Identity/Data Management and Validation**(Tx) is a decentralized blockchain service provider utilizing a modified Proof-Of-Stake utility token to deliver services that enhance security, productivity, and organizational transparency.  We are building a suite of decentralized services to assist in fostering the trust and security that the Internet lacks in order to allow innovation to flourish in today’s complex environment. In our modern environment, it can be difficult to  differentiate fake content, spam, and bots from real people.  Radium provides a platform where users can use cryptographic proofs to positively identify themselves while interacting online. The growing list of blockchain secured functions available to Radium users include cryptographically managed Identities, public voting, file signatures and proof-of-ownership, and immutable text notes.  
+  
+Consensus Algorithms | Masternode | Deflationary Asset | Current Reward
+:------------: | :-------------: | :-------------: | :-------------:
+ Proof of Stake | no | yes | 0.5 RADS
