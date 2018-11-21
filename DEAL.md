@@ -1,0 +1,2 @@
+iDealCash (DEAL) is an open-source community-driven cryptocurrency project that features transaction speeds that are 100's times faster than Bitcoin. The iDealCashBlockchain is based on the technology found in Blackcoin and Novacoin featuring fast and secure transactions and incredibly low transaction fees. Proof-of-Stake allowing stakeholders to increase their investment up to 30% each year!
+Transactions made on the iDealCash network are almost instantaneous and require only 8 seconds or less to be visible in your wallet.
